@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMappApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_place_api" templateMergeStrategy="preserve" translatable="false">AIzaSyC5cdp4XByTD1XdDeOZnyg1u4zsY32QvvQ</string>
+</resources>
