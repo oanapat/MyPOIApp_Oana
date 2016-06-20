@@ -1,4 +1,4 @@
-# MyPOIApp_Oana
+# Points Of Interest_GroupProject
 Class project
 ---
 
